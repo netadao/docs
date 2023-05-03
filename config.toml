@@ -1,0 +1,10 @@
+baseURL = 'https://docs.netadao.zone'
+languageCode = 'en-us'
+title = 'Neta DAO Docs'
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'dark'
+  BookLogo = 'logo.png'
+  BookRepo = 'https://github.com/netadao/docs'
