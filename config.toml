@@ -9,5 +9,5 @@ title = 'Neta DAO Docs'
   BookLogo = 'logo.png'
   BookRepo = 'https://github.com/netadao/docs'
   enableGitInfo = true
-  BookEditPath = 'edit/master/content'
+  BookEditPath = 'edit/master'
   BookComments = false
