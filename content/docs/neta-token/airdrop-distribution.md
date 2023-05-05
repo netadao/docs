@@ -24,7 +24,7 @@ The NETA airdrop was claimable in the month Febuary 2022. All unclaimed NETA was
 * 1,063.4 NETA was permanently burned
 
 ## NETA Airdrop Distribution
-![fjy_xpfxeaq36ay.jpg](/fjy_xpfxeaq36ay.jpg)[^2]
+![airdrop-distribution.jpg](airdrop-distribution.jpg)[^2]
 
 [^1]:https://netadao.zone/docs/NETA_Money.pdf
 [^2]:https://mobile.twitter.com/EsunaApp/status/1485272955865255945/photo/1
