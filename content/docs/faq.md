@@ -53,7 +53,7 @@ In short:
 - Anyone can contribute to Neta DAO
 
 ## Where can I obtain NETA?
-NETA can currently be obtained on [Wynd](https://dex.wynddao.com/), [Hopers](https://www.hopers.io/swap), and [Osmosis](https://app.osmosis.zone/). It is not available on any centralized exchange.
+NETA can currently be obtained on [Wynd](https://dex.wynddao.com/), [Hopers](https://www.hopers.io/swap), and [Osmosis Frontier](https://frontier.osmosis.zone/). It is not available on any centralized exchange.
 
 ## Why use Neta as a store of value when Bitcoin exists?
 Bitcoin may act as a store of value for some, but due to its prominence and presence in all ecosystems, it is subject to many macro and microeconomic factors. As a Juno token in the Cosmos ecosystem, Neta is much more localized and can potentially be resistant to these events. As one example, there may be situation where Bitcoin suffers a considerable drop in price but Neta does not because of its insulation from broader market conditions.
@@ -73,7 +73,7 @@ A localized store of value on Juno for the network's ecosystem and the greater C
 Thank you for asking! Here are some ways you can contribute to Neta DAO:
 
 - Get involved in [Commonwealth discussion](https://commonwealth.im/neta-money/)
-- Attend weekly meetings and share your perspective (every Saturday at [3pm UTC](https://mytime.io/3pm/UTC) in our Discord)
+- Attend weekly meetings and share your perspective (every Thursday at [23:00 UTC](https://mytime.io/23:00/UTC) in our Discord)
 - Browse our [Dework](https://app.dework.xyz/neta-dao) to help with existing tasks or create your own task proposal
 - Post your creative ideas in our Discord or jump in to help someone else
 - Create promotional material (graphics, video, writing, etc)
